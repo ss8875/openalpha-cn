@@ -46,7 +46,7 @@ akshare = [
 [dependency-groups]
 dev = [
   "httpx2>=2.9.0",
-  "mypy>=1.19.0,<2",
+  "mypy>=2.3.0,<3",
   "pytest>=9.0.0,<10",
   "pytest-cov>=7.0.0,<8",
   "ruff>=0.15.0,<1",
