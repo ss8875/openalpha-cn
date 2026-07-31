@@ -40,7 +40,7 @@ openalpha = "openalpha_cn.cli:main"
 
 [project.optional-dependencies]
 akshare = [
-    "akshare>=1.18.38,<2",
+    "akshare>=1.18.80,<2",
 ]
 
 [dependency-groups]
